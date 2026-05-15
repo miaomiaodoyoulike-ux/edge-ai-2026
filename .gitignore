@@ -1,6 +1,31 @@
+# IDE
 .idea/
 *.iml
+
+# Compiled files
 *.exe
 *.o
 __pycache__/
 *.pyc
+
+# Virtual environments
+venv/
+env/
+
+# Model files
+*.pth
+*.pt
+*.onnx
+*.bin
+*.h5
+
+# Data files
+*.csv
+*.npy
+*.npz
+*.pkl
+*.pickle
+
+# System files
+.DS_Store
+Thumbs.db
